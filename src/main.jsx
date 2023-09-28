@@ -17,7 +17,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
           element: <Login/>,
         },
         {
-          path: '/home',
+          path: 'home',
           element: <Home/>,
         },
       ],
