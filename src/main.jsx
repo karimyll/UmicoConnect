@@ -5,6 +5,7 @@ import MainLayout from './layouts/main-layout/index.jsx'
 import Home from './pages/Home.jsx'
 import './main.css'
 import Step1 from './pages/Login/Step1.jsx'
+import Step2 from './pages/Login/Step2.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <RouterProvider
@@ -25,6 +26,10 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     {
       path: 'login/step/1',
       element: <Step1/>,
+    },
+    {
+      path: 'login/step/2',
+      element: <Step2/>,
     }
     ])}
   />

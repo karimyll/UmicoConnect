@@ -14,7 +14,7 @@ const Step1 = () => {
         <img src={UmiconHello} alt="" />
       </div>
       <div className="bottom">
-        <Link to="/login/step2">
+        <Link to="/login/step/2">
           <button className="button1">Let`s Start</button>
         </Link>
       </div>
