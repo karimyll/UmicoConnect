@@ -68,9 +68,9 @@ const Home = () => {
           <h4>Your Points</h4>
         </div>
         <div className="right-side-point">
-          <h3>2000
+          <h3>200
             <img src={CoinIcon} alt="" /></h3>
-          <p>= 20 AZN</p>
+          <p>= 20 Bonus</p>
         </div>
       </div>
       <div className="analytic">
