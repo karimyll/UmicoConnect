@@ -3,6 +3,7 @@ import Logo from '../../assets/img/Umicoconnect.svg'
 import BackIcon from '../../assets/img/back.svg'
 import { Link } from 'react-router-dom'
 import email from '../../assets/img/email.svg'
+import phone from '../../assets/img/phone.svg'
 import password from '../../assets/img/password.svg'
 
 const Step2 = () => {
@@ -21,9 +22,9 @@ const Step2 = () => {
       <div className="form">
         <div className="inputs">
           <div className="icon">
-          <img src={email} alt="" />
+          <img src={phone} alt="" />
           </div>
-          <input type="text" name="" value="umicorns@gmail.com" id="" placeholder='Email' />
+          <input type="text" name="" value="+994507778899" id="" placeholder='Phone Number' />
         </div>
         <div className="inputs">
           <div className="icon">
