@@ -1,7 +1,7 @@
-import React from 'react'
-import Navbar from '../components/Navbar'
-import BackIcon from '../../assets/img/back.svg'
-import NoUserImage from '../../assets/img/no-user-icon.jpg'
+// import React from 'react'
+// import Navbar from '../components/Navbar'
+// import BackIcon from '../../assets/img/back.svg'
+// import NoUserImage from '../../assets/img/no-user-icon.jpg'
 
 const MyOrders = () => {
   return (

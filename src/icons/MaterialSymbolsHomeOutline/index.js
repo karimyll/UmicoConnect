@@ -1,1 +1,0 @@
-export { MaterialSymbolsHomeOutline } from "./MaterialSymbolsHomeOutline";
