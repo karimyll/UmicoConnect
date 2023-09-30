@@ -128,7 +128,7 @@
         "id": 5,
         "fullname": "Rasul Nabili",
         "point": 1400,
-        "img": "/src/assets/img/no-user-image-icon.jpg",
+        "img": "https://img.imgyukle.com/2023/09/30/rAC2oI.png",
         "products": [
             {
                 "id": 1,
@@ -157,7 +157,7 @@
         "id": 6,
         "fullname": "Emil Quliyev",
         "point": 1279,
-        "img": "/src/assets/img/no-user-image-icon.jpg",
+        "img": "https://img.imgyukle.com/2023/09/30/rAC2oI.png",
         "products": [
             {
                 "id": 1,
@@ -186,24 +186,24 @@
         "id": 7,
         "fullname": "Vedat Najafov",
         "point": 1158,
-        "img": "/src/assets/img/no-user-image-icon.jpg"
+        "img": "https://img.imgyukle.com/2023/09/30/rAC2oI.png"
     },
     {
         "id": 8,
         "fullname": "Huseyn Karimli",
         "point": 1036,
-        "img": "/src/assets/img/no-user-image-icon.jpg"
+        "img": "https://img.imgyukle.com/2023/09/30/rAC2oI.png"
     },
     {
         "id": 9,
         "fullname": "Aytaj Garibli",
         "point": 915,
-        "img": "/src/assets/img/no-user-image-icon.jpg"
+        "img": "https://img.imgyukle.com/2023/09/30/rAC2oI.png"
     },
     {
         "id": 10,
         "fullname": "Emin Aliyev",
         "point": 793,
-        "img": "/src/assets/img/no-user-image-icon.jpg"
+        "img": "https://img.imgyukle.com/2023/09/30/rAC2oI.png"
     }
 ]
