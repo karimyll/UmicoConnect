@@ -43,7 +43,8 @@ const Home = () => {
       date: date
     }
     setPromoCodes([...promoCodes, newPromoCode]);
-    toast.success('Promo Code Generated Successfully');
+    navigator.clipboard.writeText(code);
+    toast.success('Promo Code Generated and Copied Successfully');
     return code;
   }
 
