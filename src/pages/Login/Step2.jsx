@@ -23,13 +23,13 @@ const Step2 = () => {
           <div className="icon">
           <img src={email} alt="" />
           </div>
-          <input type="text" name="" id="" placeholder='Email' />
+          <input type="text" name="" value="umicorns@gmail.com" id="" placeholder='Email' />
         </div>
         <div className="inputs">
           <div className="icon">
           <img src={password} alt="" />
           </div>
-          <input type="text" name="" id="" placeholder='Password' />
+          <input type="password" name="" value="umicorns" id="" placeholder='Password' />
         </div>
         <Link to="/home">
           <button className="button1">Login</button>
