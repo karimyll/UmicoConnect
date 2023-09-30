@@ -84,27 +84,27 @@ const Home = () => {
         </div>
         <div className="charts">
           <div className="chart">
-            <div className="bar" style={{height:'50px'}}></div>
+            <div className="bar" style={{ height: '50px' }}></div>
             <p>Apr</p>
           </div>
           <div className="chart">
-            <div className="bar" style={{height:'60px'}}></div>
+            <div className="bar" style={{ height: '60px' }}></div>
             <p>May</p>
           </div>
           <div className="chart">
-            <div className="bar" style={{height:'70px'}}></div>
+            <div className="bar" style={{ height: '70px' }}></div>
             <p>Jun</p>
           </div>
           <div className="chart">
-            <div className="bar" style={{height:'40px'}}></div>
+            <div className="bar" style={{ height: '40px' }}></div>
             <p>Jul</p>
           </div>
           <div className="chart">
-            <div className="bar" style={{height:'80px'}}></div>
+            <div className="bar" style={{ height: '80px' }}></div>
             <p>Aug</p>
           </div>
           <div className="chart">
-            <div className="bar active" style={{height:'70px'}}></div>
+            <div className="bar active" style={{ height: '70px' }}></div>
             <p>Sep</p>
           </div>
         </div>
@@ -123,10 +123,11 @@ const Home = () => {
               <div className="ticket" key={promoCode.id}>
                 <div className="top">
                   <h3>{promoCode.code}</h3>
-                  <div className="copy" onClick={copyCode(promoCode.code)}>
-                    <img src={CopyIcon} alt=""  />
+                  <div className="copy" onClick={() => copyCode(promoCode.code)}>
+                    <img src={CopyIcon} alt="" />
                     <p>Copy</p>
                   </div>
+
                 </div>
                 <p className="title">
                   20% off on all products

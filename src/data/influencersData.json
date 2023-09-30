@@ -1,16 +1,16 @@
 [
     {
         "id": 1,
-        "fullname": "Nərgiz Məmmədov",
+        "fullname": "Ilgar Musayev",
         "point": 1885,
         "img": "/src/assets/img/no-user-image-icon.jpg",
         "products": [
             {
                 "id": 1,
-                "title": "Qadınlar üçün qış paltosu Trendyol TWOAW23KB00214, qəhvəyi, ölçü 38",
-                "img": "https://strgimgr.umico.az/sized/280/390082-3cbdff5d779510a98078ef8f807cdd3e.jpg",
-                "price": "99.99",
-                "link": "https://umico.az/product/390082-qadinlar-uchun-qish-paltosu-trendyol-twoaw23kb00214-qehveyi-olchu-38"
+                "title": "Kişilər üçün svitşot TRENDYOL MAN TMNAW22SW1462, boz, ölçü M",
+                "img": "https://strgimgr.umico.az/sized/280/389691-a08c6e3ab0d4ad891d0c86571688f787.jpg",
+                "price": "31.99",
+                "link": "https://umico.az/product/389691-kishiler-uchun-svitshot-trendyol-man-tmnaw22sw1462-boz-olchu-m"   
             },
             {
                 "id": 2,
@@ -20,17 +20,18 @@
                 "link": "https://umico.az/product/452741-kishiler-uchun-coqqer-trendyol-man-umnss2oeaoo5o-yashil-olchu-l"
             },
             {
+
                 "id": 3,
-                "title": "Kişilər üçün svitşot TRENDYOL MAN TMNAW22SW1462, boz, ölçü M",
-                "img": "https://strgimgr.umico.az/sized/280/389691-a08c6e3ab0d4ad891d0c86571688f787.jpg",
-                "price": "31.99",
-                "link": "https://umico.az/product/389691-kishiler-uchun-svitshot-trendyol-man-tmnaw22sw1462-boz-olchu-m"
+                "title": "Qadınlar üçün qış paltosu Trendyol TWOAW23KB00214, qəhvəyi, ölçü 38",
+                "img": "https://strgimgr.umico.az/sized/280/390082-3cbdff5d779510a98078ef8f807cdd3e.jpg",
+                "price": "99.99",
+                "link": "https://umico.az/product/390082-qadinlar-uchun-qish-paltosu-trendyol-twoaw23kb00214-qehveyi-olchu-38"
             }
         ]
     },
     {
         "id": 2,
-        "fullname": "Elvin Hüseynov",
+        "fullname": "Guldana Mehdiyeva",
         "point": 1764,
         "img": "/src/assets/img/no-user-image-icon.jpg",
         "products": [
@@ -49,18 +50,52 @@
                 "link": "https://umico.az/product/526284-qadinlar-uchun-krosovkalar-joia-g-26-yashil-suni-deri-olchu-40"
             },
             {
+
                 "id": 3,
-                "title": "Kişilər üçün uzunqol köynək TRENDYOL MAN UMNAM456GOOOO75, boz, ölçü M",
-                "img": "https://strgimgr.umico.az/sized/280/453015-5504378b58714062e34758ea93b6e7c9.jpg",
-                "price": "12.99",
-                "link": "https://umico.az/product/453015-kishiler-uchun-uzunqol-koynek-trendyol-man-umnam456goooo75-boz-olchu-m"
+                "img": "https://strgimgr.umico.az/sized/280/353567-9e46550335778efb3644c80f2fbe1561.jpg",
+                "price": "16.99 ₼",
+                "title": "Qadınlar üçün pijama Trendyol THMAW23PT00150, göy, ölçü",
+                "link": "https://umico.az/product/353567-qadin-pijama-trendyolmilla-thmaw23pt00150-goy-olchu-xs"
+
+             
             }
         ]
     },
     {
         "id": 3,
-        "fullname": "Leyla Rəhimov",
+        "fullname": "Teyyub Rasulov",
         "point": 1643,
+        "img": "/src/assets/img/no-user-image-icon.jpg",
+        "products": [
+            {
+                "id": 1,
+                "title": "Kişilər üçün uzunqol köynək TRENDYOL MAN UMNAM456GOOOO75, boz, ölçü M",
+                "img": "https://strgimgr.umico.az/sized/280/453015-5504378b58714062e34758ea93b6e7c9.jpg",
+                "price": "12.99",
+                "link": "https://umico.az/product/453015-kishiler-uchun-uzunqol-koynek-trendyol-man-umnam456goooo75-boz-olchu-m"
+
+               
+            },
+            {
+                "id": 2,
+                "title": "Qadınlar üçün don-sviter Trendyol UMFW23EL01415, bej, ölçü M",
+                "img": "https://strgimgr.umico.az/sized/280/409441-314b02c53c81b4c6af2d6fe474900678.jpg",
+                "price": "19.99",
+                "link": "https://umico.az/product/409441-qadinlar-uchun-don-sviter-trendyol-umfw23el01415-bej-olchu-m"
+            },
+            {
+                "id": 3,
+                "img": "https://strgimgr.umico.az/sized/280/437628-2c2fd42d981e5f7d045776f471e196f2.jpg",
+                "price": "59.99 ₼",
+                "title": "Kişilər üçün svitşot Tommy Hilfiger 09T4084-433, göy, ölçü",
+                "link": "https://umico.az/product/437628-kishiler-uchun-svitshot-tommy-hilfiger-09t4084-433-goy-olchu-m"            
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "fullname": "Emil Karimov",
+        "point": 1522,
         "img": "/src/assets/img/no-user-image-icon.jpg",
         "products": [
             {
@@ -72,10 +107,10 @@
             },
             {
                 "id": 2,
-                "title": "Qadınlar üçün don-sviter Trendyol UMFW23EL01415, bej, ölçü M",
-                "img": "https://strgimgr.umico.az/sized/280/409441-314b02c53c81b4c6af2d6fe474900678.jpg",
-                "price": "19.99",
-                "link": "https://umico.az/product/409441-qadinlar-uchun-don-sviter-trendyol-umfw23el01415-bej-olchu-m"
+                "title": "Qadınlar üçün tayt Trendyol UMFW23UY03030, qara, ölçü",
+                "img": "https://strgimgr.umico.az/sized/280/409543-30b9664af675a44103b7eb38d988c4c0.jpg",
+                "price": "14.99 ₼",
+                "link": "https://umico.az/product/409543-qadinlar-uchun-tayts-trendyol-umfw23uy03030-qara-olchu-m-l"
             },
             {
                 "id": 3,
@@ -87,37 +122,8 @@
         ]
     },
     {
-        "id": 4,
-        "fullname": "Tural Əliyev",
-        "point": 1522,
-        "img": "/src/assets/img/no-user-image-icon.jpg",
-        "products": [
-            {
-                "id": 1,
-                "img": "https://strgimgr.umico.az/sized/280/353567-9e46550335778efb3644c80f2fbe1561.jpg",
-                "price": "16.99 ₼",
-                "name": "Qadınlar üçün pijama Trendyol THMAW23PT00150, göy, ölçü",
-                "link": "https://umico.az/product/353567-qadin-pijama-trendyolmilla-thmaw23pt00150-goy-olchu-xs"
-            },
-            {
-                "id": 2,
-                "img": "https://strgimgr.umico.az/sized/280/409543-30b9664af675a44103b7eb38d988c4c0.jpg",
-                "price": "14.99 ₼",
-                "name": "Qadınlar üçün tayts Trendyol UMFW23UY03030, qara, ölçü",
-                "link": "https://umico.az/product/409543-qadinlar-uchun-tayts-trendyol-umfw23uy03030-qara-olchu-m-l"
-            },
-            {
-                "id": 3,
-                "img": "https://strgimgr.umico.az/sized/280/437628-2c2fd42d981e5f7d045776f471e196f2.jpg",
-                "price": "59.99 ₼",
-                "name": "Kişilər üçün svitşot Tommy Hilfiger 09T4084-433, göy, ölçü",
-                "link": "https://umico.az/product/437628-kishiler-uchun-svitshot-tommy-hilfiger-09t4084-433-goy-olchu-m"
-            }
-        ]
-    },
-    {
         "id": 5,
-        "fullname": "Aysel İsmayılov",
+        "fullname": "Rasul Nabili",
         "point": 1400,
         "img": "/src/assets/img/no-user-image-icon.jpg",
         "products": [
@@ -125,21 +131,21 @@
                 "id": 1,
                 "img": "https://strgimgr.umico.az/sized/280/409543-30b9664af675a44103b7eb38d988c4c0.jpg",
                 "price": "14.99 ₼",
-                "name": "Qadınlar üçün tayts Trendyol UMFW23UY03030, qara, ölçü",
+                "title": "Qadınlar üçün tayts Trendyol UMFW23UY03030, qara, ölçü",
                 "link": "https://umico.az/product/409543-qadinlar-uchun-tayts-trendyol-umfw23uy03030-qara-olchu-m-l"
             },
             {
                 "id": 2,
                 "img": "https://strgimgr.umico.az/sized/280/437628-2c2fd42d981e5f7d045776f471e196f2.jpg",
                 "price": "59.99 ₼",
-                "name": "Kişilər üçün svitşot Tommy Hilfiger 09T4084-433, göy, ölçü",
+                "title": "Kişilər üçün svitşot Tommy Hilfiger 09T4084-433, göy, ölçü",
                 "link": "https://umico.az/product/437628-kishiler-uchun-svitshot-tommy-hilfiger-09t4084-433-goy-olchu-m"
             },
             {
                 "id": 3,
                 "img": "https://strgimgr.umico.az/sized/280/513469-7b2c7486d2dca655fa0b4ee61ef19a1d.jpg",
                 "price": "99.99 ₼",
-                "name": "Uniseks krosovkalar Nike Downshifter 12 DD9293-001",
+                "title": "Uniseks krosovkalar Nike Downshifter 12 DD9293-001",
                 "link": "https://umico.az/product/513469-kishiler-uchun-krosovkalar-nike-downshifter-12-dd9293-001-qara-parcha-olchu-41"
             }
         ]
@@ -154,46 +160,46 @@
                 "id": 1,
                 "img": "https://strgimgr.umico.az/sized/280/437628-2c2fd42d981e5f7d045776f471e196f2.jpg",
                 "price": "59.99 ₼",
-                "name": "Kişilər üçün svitşot Tommy Hilfiger 09T4084-433, göy, ölçü",
+                "title": "Kişilər üçün svitşot Tommy Hilfiger 09T4084-433, göy, ölçü",
                 "link": "https://umico.az/product/437628-kishiler-uchun-svitshot-tommy-hilfiger-09t4084-433-goy-olchu-m"
             },
             {
                 "id": 2,
                 "img": "https://strgimgr.umico.az/sized/280/513469-7b2c7486d2dca655fa0b4ee61ef19a1d.jpg",
                 "price": "99.99 ₼",
-                "name": "Uniseks krosovkalar Nike Downshifter 12 DD9293-001",
+                "title": "Uniseks krosovkalar Nike Downshifter 12 DD9293-001",
                 "link": "https://umico.az/product/513469-kishiler-uchun-krosovkalar-nike-downshifter-12-dd9293-001-qara-parcha-olchu-41"
             },
             {
                 "id": 3,
                 "img": "https://strgimgr.umico.az/sized/280/389794-1bf7b58973651b2b6dac6739620c0983.jpg",
                 "price": "75.99 ₼",
-                "name": "Qadınlar üçün ikibortlu palto Trendyol TWOAW22KB0015",
+                "title": "Qadınlar üçün ikibortlu palto Trendyol TWOAW22KB0015",
                 "link": "https://umico.az/product/389794-qadinlar-uchun-ikibortlu-palto-trendyol-twoaw22kb0015-qara-olchu-42"
             }
         ]
     },
     {
         "id": 7,
-        "fullname": "Xəyal Nəcəfov",
+        "fullname": "Vedat Najafov",
         "point": 1158,
         "img": "/src/assets/img/no-user-image-icon.jpg"
     },
     {
         "id": 8,
-        "fullname": "Aydın Qurbanov",
+        "fullname": "Huseyn Karimli",
         "point": 1036,
         "img": "/src/assets/img/no-user-image-icon.jpg"
     },
     {
         "id": 9,
-        "fullname": "Aytən İsmailov",
+        "fullname": "Aytaj Garibli",
         "point": 915,
         "img": "/src/assets/img/no-user-image-icon.jpg"
     },
     {
         "id": 10,
-        "fullname": "Orxan Soltanov",
+        "fullname": "Emin Aliyev",
         "point": 793,
         "img": "/src/assets/img/no-user-image-icon.jpg"
     }

@@ -5,6 +5,7 @@ import Home from './pages/Home.jsx'
 import './main.css'
 import Step1 from './pages/Login/Step1.jsx'
 import Step2 from './pages/Login/Step2.jsx'
+import Ranking from './pages/Ranking.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <RouterProvider
@@ -24,6 +25,10 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       {
         path: 'login/step/2',
         element: <Step2 />,
+      },
+      {
+        path: 'ranking',
+        element: <Ranking />,
       }
     ])}
   />
