@@ -20,7 +20,7 @@ const Navbar = () => {
         <img src={MyOrdersIcon} alt="" />
         <p>My Orders</p>
       </NavLink>
-      <NavLink to='/profile' activeClassName='active'>
+      <NavLink to='/myprofile' activeClassName='active'>
         <img src={ProfileIcon} alt="" />
         <p>Profile</p>
       </NavLink>

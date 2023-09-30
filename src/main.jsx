@@ -8,6 +8,7 @@ import Step2 from './pages/Login/Step2.jsx'
 import Ranking from './pages/Ranking.jsx'
 import Feed from './pages/Feed.jsx'
 import MyOrders from './pages/MyOrders.jsx'
+import MyProfile from './pages/MyProfile.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <RouterProvider
@@ -39,6 +40,10 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       {
         path:'myorders',
         element: <MyOrders />
+      },
+      {
+        path: 'myprofile',
+        element: <MyProfile />,
       }
     ])}
   />

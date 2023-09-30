@@ -10,7 +10,9 @@ const Feed = () => {
     return (
         <div className="feed">
             <div className="feed-header">
+                <Link to="/">
                 <img className='back' src={BackIcon} alt="" />
+                </Link>
                 <img src={Logo} alt="" />
             </div>
 

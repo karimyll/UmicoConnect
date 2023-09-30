@@ -1,0 +1,100 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Kişilər üçün svitşot Trendyol",
+            "img": "https://strgimgr.umico.az/sized/280/389691-a08c6e3ab0d4ad891d0c86571688f787.jpg",
+            "price": "31.99",
+            "link": "https://umico.az/product/389691-kishiler-uchun-svitshot-trendyol-man-tmnaw22sw1462-boz-olchu-m",
+            "saved": 1
+        },
+        {
+            "id": 2,
+            "title": "Kişilər üçün coqqer Trendyol",
+            "img": "https://strgimgr.umico.az/sized/280/452741-7fec90a1af00baf08e642f9f5c5880c9.jpg",
+            "price": "19.99",
+            "link": "https://umico.az/product/452741-kishiler-uchun-coqqer-trendyol-man-umnss2oeaoo5o-yashil-olchu-l",
+            "saved": 0
+        },
+        {
+            "id": 3,
+            "title": "Qadınlar üçün qış paltosu Trendyol",
+            "img": "https://strgimgr.umico.az/sized/280/390082-3cbdff5d779510a98078ef8f807cdd3e.jpg",
+            "price": "99.99",
+            "link": "https://umico.az/product/390082-qadinlar-uchun-qish-paltosu-trendyol-twoaw23kb00214-qehveyi-olchu-38",
+            "saved": 1
+        },
+        {
+            "id": 4,
+            "title": "Qadınlar üçün don-futlyar Trendyol",
+            "img": "https://strgimgr.umico.az/sized/280/392614-7e5bdb397d2f9da9516e798f4e4546cf.jpg",
+            "price": "19.99",
+            "link": "https://umico.az/product/392614-qadinlar-uchun-don-futlyar-trendyol-twoss19bb0216-qara-olchu-36",
+            "saved": 0
+        },
+        {
+            "id": 5,
+            "title": "Qadınlar üçün krosovkalar Trendyol",
+            "img": "https://strgimgr.umico.az/sized/280/526284-528b112a56a75d80bd83460cdf48dadd.jpg",
+            "price": "29.99",
+            "link": "https://umico.az/product/526284-qadinlar-uchun-krosovkalar-joia-g-26-yashil-suni-deri-olchu-40",
+            "saved": 1
+        },
+        {
+            "id": 6,
+            "title": "Qadınlar üçün pijama Trendyol",
+            "img": "https://strgimgr.umico.az/sized/280/353567-9e46550335778efb3644c80f2fbe1561.jpg",
+            "price": "16.99 ₼",
+            "link": "https://umico.az/product/353567-qadin-pijama-trendyolmilla-thmaw23pt00150-goy-olchu-xs",
+            "saved": 0
+        },
+        {
+            "id": 7,
+            "title": "Kişilər üçün uzunqol köynək Trendyol",
+            "img": "https://strgimgr.umico.az/sized/280/453015-5504378b58714062e34758ea93b6e7c9.jpg",
+            "price": "12.99",
+            "link": "https://umico.az/product/453015-kishiler-uchun-uzunqol-koynek-trendyol-man-umnam456goooo75-boz-olchu-m",
+            "saved": 1
+        },
+        {
+            "id": 8,
+            "title": "Qadınlar üçün don-sviter Trendyol",
+            "img": "https://strgimgr.umico.az/sized/280/409441-314b02c53c81b4c6af2d6fe474900678.jpg",
+            "price": "19.99",
+            "link": "https://umico.az/product/409441-qadinlar-uchun-don-sviter-trendyol-umfw23el01415-bej-olchu-m",
+            "saved": 0
+        },
+        {
+            "id": 9,
+            "title": "Kişilər üçün svitşot Tommy Hilfiger",
+            "img": "https://strgimgr.umico.az/sized/280/437628-2c2fd42d981e5f7d045776f471e196f2.jpg",
+            "price": "59.99 ₼",
+            "link": "https://umico.az/product/437628-kishiler-uchun-svitshot-tommy-hilfiger-09t4084-433-goy-olchu-m",
+            "saved": 1
+        },
+        {
+            "id": 10,
+            "title": "Qadınlar üçün gödəkçə Trendyol",
+            "img": "https://strgimgr.umico.az/sized/280/409600-fba5806ebb91eaafc1fc883030ea53ae.jpg",
+            "price": "25.99",
+            "link": "https://umico.az/product/409600-qadinlar-uchun-godekche-trendyol-umss20m00315-qara-olchu-s",
+            "saved": 0
+        },
+        {
+            "id": 11,
+            "title": "Qadınlar üçün tayt Trendyol",
+            "img": "https://strgimgr.umico.az/sized/280/409543-30b9664af675a44103b7eb38d988c4c0.jpg",
+            "price": "14.99 ₼",
+            "link": "https://umico.az/product/409543-qadinlar-uchun-tayts-trendyol-umfw23uy03030-qara-olchu-m-l",
+            "saved": 1
+        },
+        {
+            "id": 12,
+            "title": "Kişi qol saatı Curren C8355 Blue",
+            "img": "https://strgimgr.umico.az/sized/280/297700-4f637d086584e175e0a267d5f06d4ed9.jpg",
+            "price": "67",
+            "link": "https://umico.az/product/297700-kishi-qol-saati-curren-c8355-blue",
+            "saved": 0
+        }
+    ]
+}
