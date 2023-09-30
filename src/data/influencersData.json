@@ -3,6 +3,7 @@
         "id": 1,
         "fullname": "Ilgar Musayev",
         "point": 1885,
+        "tag": "#Top1 Influencer",
         "img": "/src/assets/img/no-user-image-icon.jpg",
         "products": [
             {
@@ -32,6 +33,7 @@
     {
         "id": 2,
         "fullname": "Guldana Mehdiyeva",
+        "tag": "#Top2 Influencer",
         "point": 1764,
         "img": "/src/assets/img/no-user-image-icon.jpg",
         "products": [
@@ -64,6 +66,7 @@
     {
         "id": 3,
         "fullname": "Teyyub Rasulov",
+        "tag": "#Top3 Influencer",
         "point": 1643,
         "img": "/src/assets/img/no-user-image-icon.jpg",
         "products": [

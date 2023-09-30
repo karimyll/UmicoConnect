@@ -28,13 +28,35 @@ const Ranking = () => {
           <p>{sortedInfluencers[2].point}</p>
         </div>
       </div>
-        <div className="list">
+      <div className="list">
+  <table cellspacing="0" cellpadding="0">
+    <thead>
+      <tr>
+        <th>Rank</th>
+        <th>User</th>
+        <th>Points</th>
+      </tr>
+    </thead>
+    <tbody>
+      {sortedInfluencers.slice(3).map((influencer, index) => (
+        <tr key={index} className="list-item">
+          <td className='rank'>{index + 4}</td>
+          <td>
             <div className="user">
-                <div className="avatar"></div>
-                <div className="name">John Doe</div>
-                <div className="points">1000</div>
+              <img src={influencer.img} alt={influencer.fullname} />
+              <h2 className='fullname'>{influencer.fullname}</h2>
             </div>
-        </div>
+          </td>
+          <td>{influencer.point}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+  <br />
+  <br />
+  <br />
+</div>
+
     <Navbar />
    </div>
   )

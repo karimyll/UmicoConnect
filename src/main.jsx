@@ -6,6 +6,8 @@ import './main.css'
 import Step1 from './pages/Login/Step1.jsx'
 import Step2 from './pages/Login/Step2.jsx'
 import Ranking from './pages/Ranking.jsx'
+import Feed from './pages/Feed.jsx'
+import MyOrders from './pages/MyOrders.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <RouterProvider
@@ -29,6 +31,14 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       {
         path: 'ranking',
         element: <Ranking />,
+      },
+      {
+        path: 'feed',
+        element: <Feed />,
+      },
+      {
+        path:'myorders',
+        element: <MyOrders />
       }
     ])}
   />
