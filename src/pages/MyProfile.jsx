@@ -25,8 +25,8 @@ const MyProfile = () => {
                     <div className="top-sec">
                         <h2>Your Points</h2>
                         <div className="points">
-                           <div className="point"> <img src={CoinIcon} alt="" /> <h1>550</h1></div>
-                            <p>= 40 Bonus</p>
+                           <div className="point"> <img src={CoinIcon} alt="" /> <h1>200</h1></div>
+                            <p>= 20 Bonus</p>
                         </div>
                     </div>
                     <div className="bottom">
@@ -69,7 +69,7 @@ const MyProfile = () => {
                             <p>30 Sent 2023</p>
                         </div>
                         </div>
-                        <h2>+30Pts</h2>
+                        <h2>+100Pts</h2>
                     </div>
                     <div className="item">
                         <div className="left">
@@ -79,7 +79,7 @@ const MyProfile = () => {
                             <p>29 Sent 2023</p>
                         </div>
                         </div>
-                        <h2>+30Pts</h2>
+                        <h2>+50Pts</h2>
                     </div>
                     <div className="item">
                         <div className="left">
@@ -89,7 +89,7 @@ const MyProfile = () => {
                             <p>28 Sent 2023</p>
                         </div>
                         </div>
-                        <h2>+30Pts</h2>
+                        <h2>+50Pts</h2>
                     </div>
                 </div>
             </div>
