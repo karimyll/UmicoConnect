@@ -49,14 +49,14 @@ const MyProfile = () => {
                     className={selectedButton === "month" ? 'active' : ''}
                     onClick={() => handleButtonClick("month")}
                 >
-                    Shared Products
+                    This month
                 </button>
                 <button
                     name="history"
                     className={selectedButton === "history" ? 'active' : ''}
                     onClick={() => handleButtonClick("history")}
                 >
-                    All Products
+                    History
                 </button>
             </div>
 
