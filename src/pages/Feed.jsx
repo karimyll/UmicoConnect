@@ -54,7 +54,7 @@ const Feed = () => {
                   <img src={product.img} alt={product.title} />
                   <h6 className="product-title">{product.title}</h6>
                   <p className="product-price">{product.price}</p>
-                  <a href={product.link} target="_blank" rel="noopener noreferrer">Məhsulu bax</a>
+                  <a href={product.link} target="_blank" rel="noopener noreferrer">Məhsula bax</a>
                 </div>
               ))}
             </div>
