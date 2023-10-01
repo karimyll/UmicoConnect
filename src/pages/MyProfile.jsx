@@ -13,7 +13,7 @@ const MyProfile = () => {
     const handleButtonClick = (buttonName) => {
         setSelectedButton(buttonName);
     };
-    const ppUrl = "https://img.imgyukle.com/2023/09/30/rAJNjP.jpeg";
+    const ppUrl = "https://img.imgyukle.com/2023/09/30/rAJYsR.jpeg";
   return (
     <div className="myprofile">
         <div className="header">
