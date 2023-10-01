@@ -2,7 +2,7 @@
     {
         "id": 1,
         "fullname": "Ilgar Musayev",
-        "point": 1885,
+        "point": 188,
         "tag": "#Top1 Influencer",
         "img": "https://img.imgyukle.com/2023/09/30/rAJYsR.jpeg",
         "products": [
@@ -34,7 +34,7 @@
         "id": 2,
         "fullname": "Guldana Mehdiyeva",
         "tag": "#Top2 Influencer",
-        "point": 1764,
+        "point": 176,
         "img": "https://img.imgyukle.com/2023/09/30/rAJNjP.jpeg",
         "products": [
             {
@@ -67,7 +67,7 @@
         "id": 3,
         "fullname": "Teyyub Rasulov",
         "tag": "#Top3 Influencer",
-        "point": 1643,
+        "point": 164,
         "img": "https://img.imgyukle.com/2023/09/30/rAJate.jpeg",
         "products": [
             {
@@ -98,7 +98,7 @@
     {
         "id": 4,
         "fullname": "Emil Karimov",
-        "point": 1522,
+        "point": 152,
         "img": "https://img.imgyukle.com/2023/09/30/rAJLVN.png",
         "products": [
             {
@@ -127,7 +127,7 @@
     {
         "id": 5,
         "fullname": "Rasul Nabili",
-        "point": 1400,
+        "point": 140,
         "img": "https://img.imgyukle.com/2023/09/30/rAC2oI.png",
         "products": [
             {
@@ -156,7 +156,7 @@
     {
         "id": 6,
         "fullname": "Emil Quliyev",
-        "point": 1279,
+        "point": 127,
         "img": "https://img.imgyukle.com/2023/09/30/rAC2oI.png",
         "products": [
             {
@@ -185,25 +185,25 @@
     {
         "id": 7,
         "fullname": "Vedat Najafov",
-        "point": 1158,
+        "point": 115,
         "img": "https://img.imgyukle.com/2023/09/30/rAC2oI.png"
     },
     {
         "id": 8,
         "fullname": "Huseyn Karimli",
-        "point": 1036,
+        "point": 103,
         "img": "https://img.imgyukle.com/2023/09/30/rAC2oI.png"
     },
     {
         "id": 9,
         "fullname": "Aytaj Garibli",
-        "point": 915,
+        "point": 91,
         "img": "https://img.imgyukle.com/2023/09/30/rAC2oI.png"
     },
     {
         "id": 10,
         "fullname": "Emin Aliyev",
-        "point": 793,
+        "point": 79,
         "img": "https://img.imgyukle.com/2023/09/30/rAC2oI.png"
     }
 ]
