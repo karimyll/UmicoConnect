@@ -7,7 +7,7 @@ import ProductsData from '../data/myproducts.json';
 import { Link } from 'react-router-dom';
 
 const MyOrders = () => {
-    const ppUrl = "https://img.imgyukle.com/2023/09/30/rAJNjP.jpeg";
+    const ppUrl = "https://img.imgyukle.com/2023/09/30/rAJYsR.jpeg";
 
     const products = ProductsData.products;
 
